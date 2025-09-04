@@ -64,7 +64,7 @@ You play as a boss character whose wife has been kidnapped by zombies — your m
    cd Sorry-zombie-Unity
 2. **Open in Unity**
 
-    Unity version: (specify the version you used, e.g., 2022.3 LTS)
+    Unity version: (specify the version you used, e.g., 2022.3 LTS), 
     Open the project via Unity Hub.
 
 3. **Play the Game**
