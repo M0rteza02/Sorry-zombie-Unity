@@ -2,7 +2,7 @@
 # 🧟 Sorry Zombies!!  
 
 A 3D **action survival game** built in **Unity (C#)**.  
-You play as a boss character whose wife has been kidnapped by zombies — your mission is to fight through hordes of enemies and rescue her.  
+You play as a boss character whose wife has been kidnapped by zombies. Your mission is to fight through hordes of enemies and rescue her.  
 
 ---
 
